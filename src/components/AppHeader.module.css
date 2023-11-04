@@ -1,0 +1,55 @@
+.app_header_container {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.app_content {
+  margin: 10px 0px;
+  width: 100%;
+  /* display: flex; */
+  padding: 10px;
+  background-color: lightgray;
+  border-radius: 10px;
+}
+
+/* .app__wrapper {
+  background-color: darkgray;
+  padding: 2rem;
+  border-radius: 12px;
+} */
+
+/* .empty_text {
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: black;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  background-color: lightgray;
+  width: max-content;
+  height: auto;
+} */
+
+.app__wrapper {
+  padding: 2rem;
+  border-radius: 10px;
+  background-color: darkgray;
+}
+
+.empty_text {
+  font-size: 1.6rem;
+  font-weight: 500;
+  margin: 0 auto;
+  width: max-content;
+  height: auto;
+  /* display: flex; */
+  padding: 10px;
+  background-color: lightgray;
+  border-radius: 10px;
+  text-align: center;
+  /* align-items: center; */
+  /* justify-content: center; */
+}
